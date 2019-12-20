@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lr_1_oop_(for Anna)", "lr_1_oop_(for Anna)\lr_1_oop_(for Anna).vcproj", "{F00779EA-7597-4F8F-BF3F-57C59B8C8497}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F00779EA-7597-4F8F-BF3F-57C59B8C8497}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F00779EA-7597-4F8F-BF3F-57C59B8C8497}.Debug|Win32.Build.0 = Debug|Win32
+		{F00779EA-7597-4F8F-BF3F-57C59B8C8497}.Release|Win32.ActiveCfg = Release|Win32
+		{F00779EA-7597-4F8F-BF3F-57C59B8C8497}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
